@@ -1,0 +1,38 @@
+/* Write your CSS here */
+
+.search-container {
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.search-image {
+  height: 20px;
+  width: 20px;
+  border-top: 20px;
+}
+
+.search-bar {
+  height: 40px;
+  width: 200px;
+  background-color: #f1f5f9;
+  border-radius: 10px;
+  border-width: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.search-tab {
+  background-color: #f1f5f9;
+  height: 20px;
+  width: 200px;
+  border-width: 0px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}

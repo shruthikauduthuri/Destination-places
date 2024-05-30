@@ -1,0 +1,22 @@
+/* Write your CSS here */
+
+.place-container {
+  list-style-type: none;
+}
+
+.image {
+  border-radius: 20px;
+  height: 300px;
+  width: 400px;
+}
+
+.image-container {
+  padding: 20px;
+  align-items: center;
+  float: left;
+}
+
+.each-image {
+  float: left;
+  padding: 5px;
+}
