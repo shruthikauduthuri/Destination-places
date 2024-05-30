@@ -5,9 +5,9 @@
 }
 
 .image {
-  border-radius: 20px;
-  height: 300px;
-  width: 400px;
+  border-radius: 10px;
+  height: 150px;
+  width: 250px;
 }
 
 .image-container {
@@ -18,5 +18,5 @@
 
 .each-image {
   float: left;
-  padding: 5px;
+  padding: 10px;
 }
